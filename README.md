@@ -6,7 +6,7 @@ KeyLab is a multi-screen Playback orchestration system for macOS. It renders sho
 
 | App | Description |
 |-----|-------------|
-| **KeyLab Player** 
+| **KeyLab Player** | Player app displays graphics on screen. 
 | **KeyLabRemote** | Controller app (macOS & iPad) for managing a fleet of Players — grouping, slide control, scheduling, and remote maintenance. |
 | **KeyLabServer** | Coordinator service for health monitoring and group sync across multiple Remotes. |
 
