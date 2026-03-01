@@ -6,7 +6,7 @@ KeyLab is a multi-screen Keynote orchestration system for macOS. It renders `.ke
 
 | App | Description |
 |-----|-------------|
-| **KeyLab Player** | Renders Keynote presentations on display Macs. Supports transitions, embedded video, display grading, visual effects, and logo overlays. |
+| **KeyLab Player** 
 | **KeyLabRemote** | Controller app (macOS & iPad) for managing a fleet of Players — grouping, slide control, scheduling, and remote maintenance. |
 | **KeyLabServer** | Coordinator service for health monitoring and group sync across multiple Remotes. |
 
