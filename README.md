@@ -17,7 +17,7 @@ Download the latest installers from the [Releases](https://github.com/manofscien
 | File | What It Installs |
 |------|-----------------|
 | `KeyLabRemote-x.x.zip` | KeyLabRemote controller app (macOS). Unzip and drag to Applications. |
-| `BullpenPlayer.pkg` | KeyLab Player installer (macOS). Double-click to install to /Applications. |
+| `KeyLabPlayer.pkg` | KeyLab Player installer (macOS). Double-click to install to /Applications. |
 | `KeyLabServer.pkg` | KeyLab Server installer (macOS). Double-click to install to /Applications. |
 
 ### Auto-Updates (KeyLabRemote)
