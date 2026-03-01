@@ -32,7 +32,8 @@ KeyLabRemote checks for updates automatically via Sparkle. You'll be prompted wh
 
 ## Documentation
 
-See [USER_MANUAL.md](USER_MANUAL.md) for the full user manual covering setup, features, controls, and troubleshooting.
+- [USER_MANUAL.md](USER_MANUAL.md) — Full user manual covering setup, features, controls, and troubleshooting
+- [OSC_GLOSSARY.md](OSC_GLOSSARY.md) — OSC address reference for third-party controller integration
 
 ## Beta Testing
 
