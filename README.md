@@ -1,6 +1,6 @@
 # KeyLab Suite
 
-KeyLab is a multi-screen Keynote orchestration system for macOS. It renders `.key` files natively on display Macs and provides wireless control from a central operator station — no cloud services, third-party dependencies, or internet connection required.
+KeyLab is a multi-screen Playback orchestration system for macOS. It renders show files natively on display Macs and provides wireless control from a central operator station — no cloud services, third-party dependencies, or internet connection required.
 
 ## The Suite
 
